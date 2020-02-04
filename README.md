@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## How Computers Work!
 
-You can use the [editor on GitHub](https://github.com/Ahmed199764/ComputersWorking/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+THE 4 PARTS OF COMPUTER:-
+1- INPUT
+2- CPU
+3- MEMORY
+4- OUTPUT
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+### HOW SOFTWARE CONTROLS HARDWARE
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+notices :-
+* Computers every where.
 
-```markdown
-Syntax highlighted code block
+## 4 Things common for all computers:- (thats what make a computer ! computer)
+1- input(enter things into machine by mouse,keyboard,touch...)
+2- stroge(all those inputs are storge on the momery)
+3- processing (take information from momery to change it using algorithm to series of commends then back to be storged again and then output)
+4- output(Show text, videos, photos, games, VR, singlas to control rebort.
 
-# Header 1
-## Header 2
-### Header 3
+### Computers in the past was really large and slow, take hours just to do basic math problem !
+### Computers in now days is really amazing, we can connect each other, play games, control robots and do any crazy thing you can imagine.
 
-- Bulleted
-- List
+## 1 and 0 play a big rule (binary)
+## Wires and Circuits carry all the informations inside computer
+## computers storge texts, audios, imagines as numbers 1 and 0.
 
-1. Numbered
-2. List
+## Harderware (mouse , wires , spearker , keyboard...)
+## Software programs and codes , we dont see like(Apps, Games, Maps...)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ahmed199764/ComputersWorking/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
